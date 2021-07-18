@@ -5,6 +5,9 @@ Sylvia Document: [https://github.com/FOXFOUND/Sylvia-Doc](https://github.com/FOX
 
 ## Installation
 
-## Local Developing
+## Sylvia Developer List
+
+- zetian.zhang(415107188@qq.com)
+Maintainer/Developer
 
 ## Useful Links
