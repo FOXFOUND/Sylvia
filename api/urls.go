@@ -10,9 +10,13 @@ type HTTP_STRUCT struct {
 }
 
 var URL_PATTERNS = map[string]HTTP_STRUCT{
-	"/healthz": {
+	"/healthz/": {
 		"GET",
 		healthz,
+	},
+	"/heartbeat/": {
+		"POST",
+		heartbeat,
 	},
 }
 
